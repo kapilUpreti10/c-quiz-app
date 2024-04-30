@@ -1,0 +1,20 @@
+1)Two sound waves of equal intenisty 'I' produce beats. The maximum intensity of sound produced in beats will be. (a) I. (b) 2I. (c) 3I. (d) 4I. !c
+2)When temperature difference between source and sink increases then efficiency of heat engine?. (a) decreases. (b) increases. (c) not affected. (d)may increase or decrease . !b
+3)Two charges placed at certain distance exert a force ‘F’. If the magnitude of charge is doubled and distacne is also doubled then?. (a) F. (b) F/4. (c) F/8. (d) F/16. !a
+4) A thin convex lens is placed in contact of thin concave lens of same focal length. The focal length of combination will be?. (a) 0. (b) infinity. (c) f. (d) 2f. !b
+5) The angular momentum of electron in second orbit of hydrogen atom is 'L’ then angular momentum of electron in 4th orbit will be?. (a) 2L/3. (b) L/2. (c) 2L. (d) 3L/2. !c
+6)The current gain in a transistor is 40 and emitter current is 8.2mA then base current is?. (a) 0.2mA. (b) 0.02mA. (c) 2mA. (d) 4mA. !a
+7)A man is sitting with folded hands on a revolving table. Suddenly, he stretched his arms. Angular speed of table would?. (a)increase. (b) decrease. (c) remains same. (d)becomes zero. !b
+8)Kinetic theory of gases assumes that the collisions between the molecules are?. (a) perfectly elastic. (b) perfectly inelastic. (c) partly elastic. (d) partly inelastic. !a
+9) Kinetic energy of the molecules in terms of absolute temperature (T) is proportional to?. (a) T. (b) j. (c) J2. (d) Vr. !a
+10)Superheated vapour behaves?. (a) exactly as gas. (b) as steam. (c) as ordinary vapour. (d) approximately as a gas. !d
+11)Which of the following variables controls the physical properties of a perfect gas?. (a) pressure. (b) temperature. (c) volume. (d) all of the above. !d
+12)A wire of length L and area of cross-section A is stretched through a certain length l. If Y is Young's modulus of the material of the wire, then force constant of the wire is?. (a)YL/A . (b)AY/L . (c)Ye/A . (d)YA/e . !b
+13)Which of the following laws is applicable for the behavior of a perfect gas?. (a) Boyle’s law. (b) Charles’law. (c) Gay-Lussac law. (d) all of the above. !d
+14)A sample of gas expands from volume V1 to V2. The amount of work done by the gas is max. When the expansion is?. (a)isothermal . (b)adiabatic . (c)isochoric . (d)isobaric. !a
+15)If the normal reaction is doubled, the coefficient of friction is?. (a)doubled . (b)halved . (c)same . (d)quadrupled . !c
+16)If the acceleration of body in SHM increases then time period of body?. (a)decreases . (b)increases . (c)remains same . (d)becomes half . !c
+17) When ultravoilet radiation is incident on a metal surface then no electrons are emitted. When second beam cause photoelectric emission then it must consist?. (a)radio waves . (b)infrared rays . (c)visible rays. (d)X rays . !d
+18) According to Gay-Lussac law for a perfect gas the absolute pressure of given mass varies directly as?. (a) temperature. (b) absolute. (c) absolute temperature if volume is kept constant. (d) volume if temperature is kept constant. !c
+19)A shell in flight, explodes into four equal parts. The quantity that conserved is?.(a) kinetic energy.(b) potential energy.(d) momentum.(c) angular momemtum.!c
+20)An ideal gas as compared to a real gas at very high pressure occupies?. (a) more volume. (b) less volume. (c) same volume. (d) unpredictable behaviour. !a

@@ -1,0 +1,20 @@
+1)The inverse of a function exists iff it is?. A) surjective. B) bijective. C) injective. D) into. !B
+2)value of cos(arctanx) is?. A)[\frac{1}{\sqrt{1+x^2}}\] . B)[\sqrt{ 1+x^2 }\] . C) [1+x^2\]. D) none.!A
+3)Indefinite integral of a function x^x is?. A)[x^x(1+lnx)\] . B)[\sqrt{ 1+x^2 }\] . C)[1+x^2\] . D)It is non-elementary function . !D
+4)If A is any square matrix, then \[A^T + A\] is?. A)unit matrix . B)symmetric matrix . C)skew symmetric matrix . D)null matrix . !B
+5)The derivative of [lne^x\] ?. A) 1 . B) 0 . C) x. D) 1/2. !A
+6)The equation of plane through intersection of planes x+2y+3z+4=0 and 4x+3y+2z+and the origin is?. A)3x+2y+z=1 . B)3x+2y+z=0 . C) 2x+3y+z=0 . D)3x+2y-z=0 . !B
+7)If n(U) = 125, n(A)=80, n(B)=65, the greatest value of n(AUB) is?. A) 125. B) 80. C) 100. D) 110. !A
+8)The length of perpendicular dropped from (2, 3, 4) to 3x-2y+6+4=0 is?. A) 7 units. B) 3 units. C) 5/2 units. D) 4 units. !D
+9)The number of unit vectors perpendicular to both vector a and b are?. A) 2. B) 3. C) 4. D) 1. !A
+10)The area of the triangle formed by the line 2x-3y=6 with the coordinate axes is?. A) 2. B) 3. C) 4. D) 12. !B
+1)The polar equation r=1 represents?.  A)circle . B)ellipse . C)hyperbola . D)straight line . !A
+2)Minimum numbers of coplanar vectors required to give zero resultant is:?. A)1 . B)2 . C)3 . D)4. !C
+3)The number of diagonals of a n sided polygon is?. A) n(n-3)/2. B) C(n, 2) - n. C)C(n, 1) - 1 . D)both a and b . !D
+4)The sum of all two digit numbers is?. A)4895 . B)4905 . C)3065 . D)2015 . !B
+5)f(x) = tanx-x?. A) always increases. B)always decreases. C)never decreases. D)may increases or decrease. !C
+6)A line makes zero intercepts on the co-ordinate axes. If It is perpendicular to the line 3x + 4y + 6 = 0, then its equation is?. A)4x-3y=8 . B)3x-4y=8 . C)y=x . D)4x-3y=0 . !D
+7)If h(x)=f(x)+f(-x) then h(x) has got an extreme value at the point where f'(x) is?. A) even function. B) odd function. C) zero. D) none. !A
+8)If one end of the diameter is (1, 1) and the other end lies on the line x + y = 3 then the locus of centre of circle is?.A) 2x+2y=5.B) 2x-2y=5. C)  x+y=1. D)  x-y=1. !A
+9) A person has got 12 acquaintances of whom 8 are relatives. In how many ways can he invite 7 guests so that 5 of them may be relatives?.A) 168. B)336. C) 280. D) 1680. !B
+10)Area bounded by y = lnx, x-axis and the line x =1 and x = e is?. A) 1. B) e. C) 1/e. D) e-1. !A
